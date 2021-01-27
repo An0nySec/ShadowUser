@@ -1,0 +1,11 @@
+D:\ShadowUser\ShadowUser\bin\Release\ShadowUser.exe
+D:\ShadowUser\ShadowUser\bin\Release\ShadowUser.pdb
+D:\ShadowUser\ShadowUser\obj\Release\ShadowUser.csprojAssemblyReference.cache
+D:\ShadowUser\ShadowUser\obj\Release\ShadowUser.csproj.CoreCompileInputs.cache
+D:\ShadowUser\ShadowUser\obj\Release\ShadowUser.exe
+D:\ShadowUser\ShadowUser\obj\Release\ShadowUser.pdb
+D:\CSharp\ShadowUser\ShadowUser\bin\Release\ShadowUser.exe
+D:\CSharp\ShadowUser\ShadowUser\bin\Release\ShadowUser.pdb
+D:\CSharp\ShadowUser\ShadowUser\obj\Release\ShadowUser.csproj.CoreCompileInputs.cache
+D:\CSharp\ShadowUser\ShadowUser\obj\Release\ShadowUser.exe
+D:\CSharp\ShadowUser\ShadowUser\obj\Release\ShadowUser.pdb

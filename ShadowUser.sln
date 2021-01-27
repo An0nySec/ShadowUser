@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowUser", "ShadowUser\ShadowUser.csproj", "{F93716EA-E26F-480E-A728-E658740CEF09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93716EA-E26F-480E-A728-E658740CEF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93716EA-E26F-480E-A728-E658740CEF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93716EA-E26F-480E-A728-E658740CEF09}.Debug|x86.ActiveCfg = Debug|x86
+		{F93716EA-E26F-480E-A728-E658740CEF09}.Debug|x86.Build.0 = Debug|x86
+		{F93716EA-E26F-480E-A728-E658740CEF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93716EA-E26F-480E-A728-E658740CEF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93716EA-E26F-480E-A728-E658740CEF09}.Release|x86.ActiveCfg = Release|x86
+		{F93716EA-E26F-480E-A728-E658740CEF09}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20797D4D-F18B-4F36-8EE0-6BC08D5CE0CD}
+	EndGlobalSection
+EndGlobal
