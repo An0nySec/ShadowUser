@@ -13,7 +13,7 @@ Usage: ShadowUser.exe <User> <CloneUser>
 
 1. 查询RDP状态与端口，关闭状态可开启；
 
-2. 注册表导入用户，`net user`无法删除，需要删除注册表相关键值 ；
+2. 注册表导入用户，`net user`无法删除，需要删除注册表相关键值；
 
 3. Windows 的登录界面不显示该用户信息。
 
