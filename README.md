@@ -1,6 +1,6 @@
-### Introduce
+## Introduce
 
-**ShadowUser.exe   (.NET Framework 2.0)**
+**ShadowUser.exe**
 
 ```tex
 [!] The default is 10 bits random password, Don't change your password !
@@ -19,7 +19,7 @@ Usage: ShadowUser.exe <User> <CloneUser>
 
 ------
 
-### Reference
+## Reference
 
 - [Windows-User-Clone.ps1](https://github.com/3gstudent/Windows-User-Clone/blob/master/Windows-User-Clone.ps1)
 - [权限维持篇-影子用户后门](http://hackergu.com/power-shadowuser/)
